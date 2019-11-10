@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.escapethelogic.com/posts/breakout-koramangala-kidnapped/</loc>
+    <lastmod>2019-11-10T18:48:15+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.escapethelogic.com/posts/mystery-rooms-chennai-hangover/</loc>
     <lastmod>2019-11-10T18:25:22+05:30</lastmod>
   </url>
@@ -20,6 +25,24 @@
   <url>
     <loc>https://www.escapethelogic.com/tags/after-party-ambience/</loc>
     <lastmod>2019-11-10T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.escapethelogic.com/tags/bangalore/</loc>
+    <lastmod>2019-11-10T18:48:15+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.escapethelogic.com/tags/beginners/</loc>
+    <lastmod>2019-11-10T18:48:15+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.escapethelogic.com/tags/breakout/</loc>
+    <lastmod>2019-11-10T18:48:15+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -42,13 +65,31 @@
   
   <url>
     <loc>https://www.escapethelogic.com/</loc>
-    <lastmod>2019-11-10T18:25:22+05:30</lastmod>
+    <lastmod>2019-11-10T18:48:15+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.escapethelogic.com/tags/hangover/</loc>
     <lastmod>2019-11-10T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.escapethelogic.com/tags/kidnapped/</loc>
+    <lastmod>2019-11-10T18:48:15+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.escapethelogic.com/tags/kidnapping-ambience/</loc>
+    <lastmod>2019-11-10T18:48:15+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.escapethelogic.com/tags/koramangala/</loc>
+    <lastmod>2019-11-10T18:48:15+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -60,7 +101,7 @@
   
   <url>
     <loc>https://www.escapethelogic.com/posts/</loc>
-    <lastmod>2019-11-10T18:25:22+05:30</lastmod>
+    <lastmod>2019-11-10T18:48:15+05:30</lastmod>
     <priority>0</priority>
   </url>
   
