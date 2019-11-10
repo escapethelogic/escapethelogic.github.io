@@ -5,3 +5,12 @@
   background-repeat: repeat;
   background-color: #f4f4f4;
 }
+
+.star {
+  font-size: 2rem;
+  color: gold;
+}
+
+.star-empty {
+  font-size: 2rem;
+}
