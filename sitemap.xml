@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.escapethelogic.com/posts/what-is-escape-room/</loc>
+    <lastmod>2019-11-14T13:34:56+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.escapethelogic.com/posts/breakout-koramangala-kidnapped/</loc>
     <lastmod>2019-11-10T18:48:15+05:30</lastmod>
   </url>
@@ -20,6 +25,12 @@
   <url>
     <loc>https://www.escapethelogic.com/contact/</loc>
     <lastmod>2019-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.escapethelogic.com/tags/adventure/</loc>
+    <lastmod>2019-11-14T13:34:56+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -53,7 +64,7 @@
   
   <url>
     <loc>https://www.escapethelogic.com/tags/challenging/</loc>
-    <lastmod>2019-11-10T18:25:22+05:30</lastmod>
+    <lastmod>2019-11-14T13:34:56+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -64,8 +75,20 @@
   </url>
   
   <url>
+    <loc>https://www.escapethelogic.com/tags/escape-rooms/</loc>
+    <lastmod>2019-11-14T13:34:56+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.escapethelogic.com/</loc>
-    <lastmod>2019-11-10T18:48:15+05:30</lastmod>
+    <lastmod>2019-11-14T13:34:56+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.escapethelogic.com/tags/group-activity/</loc>
+    <lastmod>2019-11-14T13:34:56+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -94,26 +117,50 @@
   </url>
   
   <url>
+    <loc>https://www.escapethelogic.com/tags/locks/</loc>
+    <lastmod>2019-11-14T13:34:56+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.escapethelogic.com/tags/mystery-rooms/</loc>
-    <lastmod>2019-11-10T18:25:22+05:30</lastmod>
+    <lastmod>2019-11-14T13:34:56+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.escapethelogic.com/posts/</loc>
-    <lastmod>2019-11-10T18:48:15+05:30</lastmod>
+    <lastmod>2019-11-14T13:34:56+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.escapethelogic.com/tags/puzzles/</loc>
+    <lastmod>2019-11-14T13:34:56+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.escapethelogic.com/tags/sensor-based/</loc>
-    <lastmod>2019-11-10T18:25:22+05:30</lastmod>
+    <lastmod>2019-11-14T13:34:56+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.escapethelogic.com/tags/</loc>
-    <lastmod>2019-11-10T18:25:22+05:30</lastmod>
+    <lastmod>2019-11-14T13:34:56+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.escapethelogic.com/tags/team-building/</loc>
+    <lastmod>2019-11-14T13:34:56+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.escapethelogic.com/tags/thrill/</loc>
+    <lastmod>2019-11-14T13:34:56+05:30</lastmod>
     <priority>0</priority>
   </url>
   

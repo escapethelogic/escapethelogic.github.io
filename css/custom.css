@@ -14,3 +14,9 @@
 .star-empty {
   font-size: 2rem;
 }
+
+.content-column-content p,
+.content-column-content li {
+  font-size: 2rem;
+  color: #666666;
+}
