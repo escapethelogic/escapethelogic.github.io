@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Escape The Logic</title>
@@ -6,14 +6,13 @@
     <description>Recent content in Tags on Escape The Logic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2019 escapethelogic</copyright>
     <lastBuildDate>Thu, 14 Nov 2019 13:34:56 +0530</lastBuildDate>
     
 	<atom:link href="https://www.escapethelogic.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Adventure</title>
+      <title>adventure</title>
       <link>https://www.escapethelogic.com/tags/adventure/</link>
       <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
       
@@ -22,11 +21,83 @@
     </item>
     
     <item>
-      <title>After Party Ambience</title>
-      <link>https://www.escapethelogic.com/tags/after-party-ambience/</link>
-      <pubDate>Sun, 10 Nov 2019 18:25:22 +0530</pubDate>
+      <title>Challenging</title>
+      <link>https://www.escapethelogic.com/tags/challenging/</link>
+      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
       
-      <guid>https://www.escapethelogic.com/tags/after-party-ambience/</guid>
+      <guid>https://www.escapethelogic.com/tags/challenging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>escape rooms</title>
+      <link>https://www.escapethelogic.com/tags/escape-rooms/</link>
+      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
+      
+      <guid>https://www.escapethelogic.com/tags/escape-rooms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>group activity</title>
+      <link>https://www.escapethelogic.com/tags/group-activity/</link>
+      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
+      
+      <guid>https://www.escapethelogic.com/tags/group-activity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>locks</title>
+      <link>https://www.escapethelogic.com/tags/locks/</link>
+      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
+      
+      <guid>https://www.escapethelogic.com/tags/locks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mystery Rooms</title>
+      <link>https://www.escapethelogic.com/tags/mystery-rooms/</link>
+      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
+      
+      <guid>https://www.escapethelogic.com/tags/mystery-rooms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>puzzles</title>
+      <link>https://www.escapethelogic.com/tags/puzzles/</link>
+      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
+      
+      <guid>https://www.escapethelogic.com/tags/puzzles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensor based</title>
+      <link>https://www.escapethelogic.com/tags/sensor-based/</link>
+      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
+      
+      <guid>https://www.escapethelogic.com/tags/sensor-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>team building</title>
+      <link>https://www.escapethelogic.com/tags/team-building/</link>
+      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
+      
+      <guid>https://www.escapethelogic.com/tags/team-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thrill</title>
+      <link>https://www.escapethelogic.com/tags/thrill/</link>
+      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
+      
+      <guid>https://www.escapethelogic.com/tags/thrill/</guid>
       <description></description>
     </item>
     
@@ -58,51 +129,6 @@
     </item>
     
     <item>
-      <title>Challenging</title>
-      <link>https://www.escapethelogic.com/tags/challenging/</link>
-      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
-      
-      <guid>https://www.escapethelogic.com/tags/challenging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chennai</title>
-      <link>https://www.escapethelogic.com/tags/chennai/</link>
-      <pubDate>Sun, 10 Nov 2019 18:25:22 +0530</pubDate>
-      
-      <guid>https://www.escapethelogic.com/tags/chennai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Escape Rooms</title>
-      <link>https://www.escapethelogic.com/tags/escape-rooms/</link>
-      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
-      
-      <guid>https://www.escapethelogic.com/tags/escape-rooms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Group Activity</title>
-      <link>https://www.escapethelogic.com/tags/group-activity/</link>
-      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
-      
-      <guid>https://www.escapethelogic.com/tags/group-activity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hangover</title>
-      <link>https://www.escapethelogic.com/tags/hangover/</link>
-      <pubDate>Sun, 10 Nov 2019 18:25:22 +0530</pubDate>
-      
-      <guid>https://www.escapethelogic.com/tags/hangover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kidnapped</title>
       <link>https://www.escapethelogic.com/tags/kidnapped/</link>
       <pubDate>Sun, 10 Nov 2019 18:48:15 +0530</pubDate>
@@ -130,56 +156,29 @@
     </item>
     
     <item>
-      <title>Locks</title>
-      <link>https://www.escapethelogic.com/tags/locks/</link>
-      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
+      <title>After Party Ambience</title>
+      <link>https://www.escapethelogic.com/tags/after-party-ambience/</link>
+      <pubDate>Sun, 10 Nov 2019 18:25:22 +0530</pubDate>
       
-      <guid>https://www.escapethelogic.com/tags/locks/</guid>
+      <guid>https://www.escapethelogic.com/tags/after-party-ambience/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mystery Rooms</title>
-      <link>https://www.escapethelogic.com/tags/mystery-rooms/</link>
-      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
+      <title>Chennai</title>
+      <link>https://www.escapethelogic.com/tags/chennai/</link>
+      <pubDate>Sun, 10 Nov 2019 18:25:22 +0530</pubDate>
       
-      <guid>https://www.escapethelogic.com/tags/mystery-rooms/</guid>
+      <guid>https://www.escapethelogic.com/tags/chennai/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Puzzles</title>
-      <link>https://www.escapethelogic.com/tags/puzzles/</link>
-      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
+      <title>Hangover</title>
+      <link>https://www.escapethelogic.com/tags/hangover/</link>
+      <pubDate>Sun, 10 Nov 2019 18:25:22 +0530</pubDate>
       
-      <guid>https://www.escapethelogic.com/tags/puzzles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sensor Based</title>
-      <link>https://www.escapethelogic.com/tags/sensor-based/</link>
-      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
-      
-      <guid>https://www.escapethelogic.com/tags/sensor-based/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Team Building</title>
-      <link>https://www.escapethelogic.com/tags/team-building/</link>
-      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
-      
-      <guid>https://www.escapethelogic.com/tags/team-building/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thrill</title>
-      <link>https://www.escapethelogic.com/tags/thrill/</link>
-      <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
-      
-      <guid>https://www.escapethelogic.com/tags/thrill/</guid>
+      <guid>https://www.escapethelogic.com/tags/hangover/</guid>
       <description></description>
     </item>
     
