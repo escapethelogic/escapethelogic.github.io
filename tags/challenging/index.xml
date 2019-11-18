@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Challenging on Escape The Logic</title>
@@ -6,6 +6,7 @@
     <description>Recent content in Challenging on Escape The Logic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;2019 escapethelogic</copyright>
     <lastBuildDate>Thu, 14 Nov 2019 13:34:56 +0530</lastBuildDate>
     
 	<atom:link href="https://www.escapethelogic.com/tags/challenging/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +18,9 @@
       <pubDate>Thu, 14 Nov 2019 13:34:56 +0530</pubDate>
       
       <guid>https://www.escapethelogic.com/posts/what-is-escape-room/</guid>
-      <description>&lt;p&gt;So you have been hearing a lot about Escape Rooms lately but don&amp;rsquo;t know what it&amp;rsquo;s all about? I am sure if you have seen the Escape Room movie you have got the basic idea. But don&amp;rsquo;t worry if you haven&amp;rsquo;t, because today I am gonna give you a crash course on escape rooms and answer you whats and whys and hows.&lt;/p&gt;</description>
+      <description>&lt;p&gt;So you have been hearing a lot about Escape Rooms lately but don&amp;rsquo;t know what it&amp;rsquo;s all about? I am sure if you have seen the Escape Room movie you have got the basic idea. But don&amp;rsquo;t worry if you haven&amp;rsquo;t, because today I am gonna give you a crash course on escape rooms and answer you whats and whys and hows.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -27,15 +30,17 @@
       
       <guid>https://www.escapethelogic.com/posts/mystery-rooms-chennai-hangover/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Ambience - &lt;strong class=&#34;star&#34;&gt;⭐&lt;/strong&gt; &lt;strong class=&#34;star&#34;&gt;⭐&lt;/strong&gt;
-&lt;strong class=&#34;star&#34;&gt;⭐&lt;/strong&gt; &lt;strong class=&#34;star&#34;&gt;⭐&lt;/strong&gt; &lt;strong class=&#34;star-empty&#34;&gt;⭐&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Clues &amp;amp; Locks - &lt;strong class=&#34;star&#34;&gt;⭐&lt;/strong&gt; &lt;strong class=&#34;star&#34;&gt;⭐&lt;/strong&gt;
-&lt;strong class=&#34;star&#34;&gt;⭐&lt;/strong&gt; &lt;strong class=&#34;star&#34;&gt;⭐&lt;/strong&gt; &lt;strong class=&#34;star-empty&#34;&gt;⭐&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Ambience - &lt;strong class=&#34;star&#34;&gt;⭐️&lt;/strong&gt; &lt;strong class=&#34;star&#34;&gt;⭐️&lt;/strong&gt;
+&lt;strong class=&#34;star&#34;&gt;⭐️&lt;/strong&gt; &lt;strong class=&#34;star&#34;&gt;⭐️&lt;/strong&gt; &lt;strong class=&#34;star-empty&#34;&gt;⭐️&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Clues &amp;amp; Locks - &lt;strong class=&#34;star&#34;&gt;⭐️&lt;/strong&gt; &lt;strong class=&#34;star&#34;&gt;⭐️&lt;/strong&gt;
+&lt;strong class=&#34;star&#34;&gt;⭐️&lt;/strong&gt; &lt;strong class=&#34;star&#34;&gt;⭐️&lt;/strong&gt; &lt;strong class=&#34;star-empty&#34;&gt;⭐️&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Success Rate - 25%&lt;/li&gt;
 &lt;li&gt;Difficulty - Moderate&lt;/li&gt;
-&lt;li&gt;Overall - &lt;strong class=&#34;star&#34;&gt;⭐&lt;/strong&gt; &lt;strong class=&#34;star&#34;&gt;⭐&lt;/strong&gt;
-&lt;strong class=&#34;star&#34;&gt;⭐&lt;/strong&gt; &lt;strong class=&#34;star&#34;&gt;⭐&lt;/strong&gt; &lt;strong class=&#34;star-empty&#34;&gt;⭐&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;li&gt;Overall - &lt;strong class=&#34;star&#34;&gt;⭐️&lt;/strong&gt; &lt;strong class=&#34;star&#34;&gt;⭐️&lt;/strong&gt;
+&lt;strong class=&#34;star&#34;&gt;⭐️&lt;/strong&gt; &lt;strong class=&#34;star&#34;&gt;⭐️&lt;/strong&gt; &lt;strong class=&#34;star-empty&#34;&gt;⭐️&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
